@@ -99,6 +99,10 @@ body * {
  animation: slide-in .2s forwards;
 }
 
+#switch button:hover{
+  outline: 8px solid var(--social-color-houver);
+}
+
 #switch span {
   display: block;
   width: 64px;
